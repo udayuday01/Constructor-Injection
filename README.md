@@ -1,2 +1,2 @@
 # SpringDemo
-my first simple spring project
+my first simple constructor injection spring project
